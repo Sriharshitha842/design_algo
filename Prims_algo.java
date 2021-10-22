@@ -69,3 +69,6 @@ t.primMST(graph);
 scan.close();
 } 
 }
+
+
+
